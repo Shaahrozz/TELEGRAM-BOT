@@ -12,7 +12,7 @@ def echo(update, context):
 
 def main():
     # Create the Updater and pass it your bot's token
-    updater = Updater(token='YOUR_TELEGRAM_BOT_TOKEN', use_context=True)
+    updater = Updater(token='58e4e3aecb62907549a2a9f46c65489a', use_context=True)
 
     # Get the dispatcher to register handlers
     dispatcher = updater.dispatcher
